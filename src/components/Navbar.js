@@ -40,8 +40,8 @@ const StyledButton = styled.button`
   border: none;
   margin-left: 2rem;
   padding: 10px 24px;
-  height: 44px;
-  margin-top: 4px;
+  height: 36px;
+  margin-top: 8px;
   color: white;
   border-radius: 8px;
   font-size: 14px;
